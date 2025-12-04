@@ -1,0 +1,8 @@
+# Compiled class files
+bin/
+*.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
