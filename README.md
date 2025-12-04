@@ -32,7 +32,7 @@ src/
 1.  **Clone the repository**:
     ```bash
     git clone  https://github.com/Maruf-Raduan/CodeAlpha_Student_Grade_Tracker.git
-    cd Student-Grade-Tracker
+    cd CodeAlpha_Student_Grade_Tracker
     ```
 
 2.  **Compile the source code**:
