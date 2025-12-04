@@ -31,7 +31,7 @@ src/
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Student-Grade-Tracker.git
+    git clone  https://github.com/Maruf-Raduan/CodeAlpha_Student_Grade_Tracker.git
     cd Student-Grade-Tracker
     ```
 
